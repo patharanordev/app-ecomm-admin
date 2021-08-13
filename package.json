@@ -37,7 +37,7 @@
     "logrocket-react": "^4.0.1",
     "moment": "^2.24.0",
     "morgan": "^1.10.0",
-    "next": "^9.3.6",
+    "next": "^11.1.0",
     "next-redux-wrapper": "^5.0.0",
     "next-routes": "^1.4.2",
     "passport": "^0.4.1",
